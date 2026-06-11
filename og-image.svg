@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0A0A0F"/>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#4DEFE0"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="50%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#4DEFE0"/>
+    </linearGradient>
+  </defs>
+  <polygon points="600,120 720,250 670,450 530,450 480,250" fill="url(#g)" opacity="0.9"/>
+  <polygon points="600,120 720,250 600,290" fill="url(#g)" opacity="0.95"/>
+  <polygon points="600,120 480,250 600,290" fill="url(#g)" opacity="0.7"/>
+  <polygon points="480,250 600,290 530,450" fill="url(#g)" opacity="0.5"/>
+  <polygon points="720,250 600,290 670,450" fill="url(#g)" opacity="0.6"/>
+  <polygon points="600,290 530,450 670,450" fill="url(#g)" opacity="0.85"/>
+  <text x="600" y="400" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="72" fill="url(#t)">Vexel</text>
+  <text x="600" y="450" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="400" font-size="28" fill="#9A9AA5">Sharpen every prompt. Instantly.</text>
+</svg>

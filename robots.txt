@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vexel.app/sitemap.xml
+Sitemap: https://vexel-beta.vercel.app/sitemap.xml
